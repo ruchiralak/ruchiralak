@@ -13,7 +13,7 @@
 ## 🧠 My Focus Areas
 - Fullstack Web Development
 - Mobile App  Development
-- Desktop  Application Development
+- Cross-platform  Development
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
