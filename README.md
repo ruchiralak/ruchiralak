@@ -1,81 +1,52 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ruchira+Lakshan+%F0%9F%91%8B;Software+Engineer+(Undergraduate);Fullstack+%7C+Mobile+%7C+Cross-platform+Dev" alt="Typing SVG" />
-
-<a href="https://komarev.com/ghpvc/?username=ruchiralak">
-  <img src="https://komarev.com/ghpvc/?username=ruchiralak&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="Profile views" />
-</a>
-
-</div>
-
-<br/>
-
-## 📌 About Me
-
-I'm a Software Engineering undergraduate with a strong foundation in software design principles and hands-on experience building full-stack and AI-powered systems — from scheduling platforms and admin dashboards to semantic search chatbots and decision-support engines.
-
-- 🎓 Studying Software Engineering, currently pursuing a BEng (Hons) top-up
-- 💼 Interned at TRACE Expert City, working on scheduling systems, dashboards, and REST APIs
-- 🚀 Leading a final-year team project on an intelligent academic registration system
-- 🌱 Currently deepening my knowledge of machine learning fundamentals and system design
-- ⚡ Fun fact: I still believe "Write once, run anywhere" — even if I have to fight the JVM to prove it
-
-<br/>
-
-## 🧠 Focus Areas
-
-<table>
-<tr>
-<td width="33%" align="center">🌐<br/><b>Fullstack Web Development</b></td>
-<td width="33%" align="center">📱<br/><b>Mobile App Development</b></td>
-<td width="33%" align="center">🔀<br/><b>Cross-platform Development</b></td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Ruchira%20Lakshan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Undergraduate&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,postgres,mongodb,flutter,dart,tailwind,git,figma&perline=7" alt="Tech stack icons" />
+  <img src="https://img.shields.io/badge/Fullstack%20Development-1F6FEB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20Development-1F6FEB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cross--platform-1F6FEB?style=flat-square&logoColor=white" />
 </p>
 
 <br/>
 
-## 📊 GitHub Stats
+### About
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchiralak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=00D9FF&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&cache_seconds=86400" alt="Ruchira's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchiralak&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages" width="49%" />
-</p>
+Software Engineering undergraduate working across full-stack, mobile, and AI-driven systems — from scheduling platforms and admin dashboards to semantic search and decision-support engines.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruchiralak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&cache_seconds=86400" alt="Ruchira's GitHub Trophies" />
+- 🎓 Pursuing a BSE (Hons)  in Software Engineering
+- 💼 Previously interned at TRACE Expert City — scheduling systems, dashboards, REST APIs
+- 🚀 Leading a final-year team building an intelligent academic registration & validation system
+- 🌱 Currently sharpening machine learning fundamentals and system design skills
+
+<br/>
+
+### Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 <br/>
 
-## 🔗 Connect with Me
+### Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruchira-lakshan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ruchiralak" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:ruchiralakshanm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://ruchiralak.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
-  </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ruchira-lakshan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ruchiralak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ruchiralakshanm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://ruchiralak.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
-<br/>
-
-<div align="center">
-
-### 💬 "Write once, run anywhere."
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" />
