@@ -1,102 +1,34 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Ruchira%20Lakshan&fontSize=36&fontColor=ffffff&fontAlignY=55" />
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center" bgcolor="#161b22">
-<sub>ROLE</sub><br/>
-<b>Software Engineer (UG)</b>
-</td>
-<td width="25%" align="center" bgcolor="#161b22">
-<sub>LOCATION</sub><br/>
-<b>Colombo, Sri Lanka</b>
-</td>
-<td width="25%" align="center" bgcolor="#161b22">
-<sub>STATUS</sub><br/>
-<b>🟢 Open to work</b>
-</td>
-<td width="25%" align="center" bgcolor="#161b22">
-<sub>FOCUS</sub><br/>
-<b>Fullstack · Mobile</b>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top" bgcolor="#0d1b33">
-
-**📌 &nbsp;NOW**
-
-Leading Team Ignotum, building **IARVS** — an intelligent academic registration & validation system with a Sentence-BERT semantic search chatbot and a rule-based override decision engine.
-
-`Next.js 14` `FastAPI` `PostgreSQL`
-
-</td>
-<td width="40%" valign="top" bgcolor="#161b22">
-
-**📜 &nbsp;BEFORE**
-
-Interned at TRACE Expert City — scheduling systems, admin dashboards, REST APIs.
-
-Built a mentorship LMS with a 6-person team.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🧰 Stack
-
-<table width="100%">
-<tr>
-<td align="center" width="20%" bgcolor="#161b22"><h3>🌐</h3><b>Frontend</b><br/><sub>React · Next.js<br/>Tailwind</sub></td>
-<td align="center" width="20%" bgcolor="#161b22"><h3>⚙️</h3><b>Backend</b><br/><sub>Node.js · FastAPI</sub></td>
-<td align="center" width="20%" bgcolor="#161b22"><h3>🗄️</h3><b>Data</b><br/><sub>PostgreSQL · MongoDB</sub></td>
-<td align="center" width="20%" bgcolor="#161b22"><h3>📱</h3><b>Mobile</b><br/><sub>Flutter · Dart</sub></td>
-<td align="center" width="20%" bgcolor="#161b22"><h3>🛠️</h3><b>Tooling</b><br/><sub>Git · Figma<br/>Docker</sub></td>
-</tr>
-</table>
-
-<br/>
-
-### 🚀 Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" bgcolor="#161b22">
-
-**IARVS**
-Academic registration platform with semantic search + intelligent override engine.
-<br/><br/>`Next.js` `FastAPI` `PostgreSQL` `Sentence-BERT`
-
-</td>
-<td width="50%" valign="top" bgcolor="#161b22">
-
-**Digital Logbook**
-Mentorship & LMS platform — invitations, admin monitoring, Kanban, S3.
-<br/><br/>`Team Project` `TRACE Expert City`
-
-</td>
-</tr>
-
-</table>
-
-<br/>
-
-### 🔗 Connect
-
-<table width="100%">
-<tr>
-<td align="center" width="25%" bgcolor="#161b22"><a href="https://www.linkedin.com/in/ruchira-lakshan/"><h3>💼</h3><b>LinkedIn</b></a></td>
-<td align="center" width="25%" bgcolor="#161b22"><a href="https://github.com/ruchiralak"><h3>🐙</h3><b>GitHub</b></a></td>
-<td align="center" width="25%" bgcolor="#161b22"><a href="mailto:ruchiralakshanm@gmail.com"><h3>✉️</h3><b>Email</b></a></td>
-<td align="center" width="25%" bgcolor="#161b22"><a href="https://ruchiralak.github.io/portfolio/"><h3>🌐</h3><b>Portfolio</b></a></td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:0D1117&height=60&section=footer" />
+<h1 align="center">Hi 👋, I'm Ruchira Lakshan</h1>
+<h3 align="center">Software Engineer (UG)</h3>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ruchiralak">
+    <img src="https://komarev.com/ghpvc/?username=ruchiralak&label=Profile%20views&color=00FFFF&style=flat-square" alt="ruchiralak's profile views" />
+  </a>
+</p>
+## 📌 About Me
+- Highly motivated BSE undergraduate with a strong foundation in software engineering and programming principles. Proficient in a variety of languages
+## 🧠 My Focus Areas
+- Fullstack Web Development
+- Mobile App  Development
+- Cross-platform  Development
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruchiralak&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&bg_color=00000000&cache_seconds=86400" alt="ruchiralak's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ruchiralak&theme=radical&hide_border=true&background=00000000&stroke=FF00FF&ring=00FFFF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF&cache_seconds=86400" alt="ruchiralak's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ruchiralak&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ruchira Lakshan's GitHub Trophies" />
+</p>
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchiralak&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=00000000&title_color=FF00FF&text_color=FFFFFF&cache_seconds=86400" alt="Top Languages" />
+</p>
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ruchira-lakshan/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ruchira Lakshan's LinkedIn"/></a>
+  <a href="https://github.com/ruchiralak" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FFFFFF" alt="ruchiralak"/></a>
+  <a href="mailto:ruchiralakshanm@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Ruchira Lakshan's Email"/></a>
+  <a href="https://ruchiralak.github.io/portfolio/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+</p>
+## 💬 Quote
+> Write once , Run Anywhere
