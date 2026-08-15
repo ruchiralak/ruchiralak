@@ -17,7 +17,7 @@
 ```yaml
 $ whoami
 > Software Engineering undergraduate, Colombo, Sri Lanka
-> BEng (Hons) top-up in progress
+> BSE (Hons)  in progress
 
 $ status --current
 > [████████████████░░░░] leading Team Ignotum — building IARVS,
@@ -42,10 +42,15 @@ $ philosophy
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S T A C K&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│
 └─────────────────────────────────────────────────────┘
 
-`JavaScript`&nbsp;·&nbsp;`TypeScript`&nbsp;·&nbsp;`React`&nbsp;·&nbsp;`Next.js`&nbsp;·&nbsp;`Node.js`
-`Python`&nbsp;·&nbsp;`FastAPI`&nbsp;·&nbsp;`PostgreSQL`&nbsp;·&nbsp;`Flutter`&nbsp;·&nbsp;`Tailwind`
-
 </div>
+
+```
+client    ┃ JavaScript · TypeScript · React · Next.js · Tailwind
+server    ┃ Node.js · Python · FastAPI
+data      ┃ PostgreSQL · MongoDB  · Prisma · MySQL · Supabase · FireBase
+mobile    ┃ Flutter · Dart  · ReactNative
+tooling   ┃ Git · Figma · Docker
+```
 
 <br/>
 
@@ -58,7 +63,7 @@ $ philosophy
 </div>
 
 **⟶ IARVS**
-Full-stack academic registration platform. Semantic search chatbot on Sentence-BERT, plus a rule-based override decision engine. Next.js · FastAPI · PostgreSQL.
+Full-stack academic registration platform.Agentic AI Powered chatbot , plus a rule-based override decision engine. Next.js · FastAPI · PostgreSQL.
 
 **⟶ Digital Logbook**
 Mentorship & learning management system, built with a team of six. Secure invitations, admin monitoring, Kanban UI, S3 storage.
@@ -66,21 +71,28 @@ Mentorship & learning management system, built with a team of six. Secure invita
 **⟶ Portfolio**
 A living site with a real-time GitHub feed and a dependency-graph particle animation modeling IARVS's own architecture.
 
-**⟶ SahaYak**
-A WhatsApp AI chatbot for Sri Lankan grocery businesses — Singlish normalization, intent classification.
 
 <br/>
 
 <div align="center">
 
-──────────────────────────────
+┌─────────────────────────────────────────────────────┐
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C O N N E C T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│
+└─────────────────────────────────────────────────────┘
 
-**[LinkedIn](https://www.linkedin.com/in/ruchira-lakshan/)**   ·   **[GitHub](https://github.com/ruchiralak)**   ·   **[Email](mailto:ruchiralakshanm@gmail.com)**   ·   **[Portfolio](https://ruchiralak.github.io/portfolio/)**
+</div>
 
-──────────────────────────────
+```
+$ connect --linkedin   https://linkedin.com/in/ruchira-lakshan
+$ connect --github     https://github.com/ruchiralak
+$ connect --email      ruchiralakshanm@gmail.com
+$ connect --portfolio  https://ruchiralak.github.io/portfolio
 
-<sub>thanks for stopping by — now go build something</sub>
+$ echo "thanks for stopping by — now go build something"
+```
 
+<div align="center">
+<sub>⟶ open to opportunities in fullstack & mobile development</sub>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=footer" />
