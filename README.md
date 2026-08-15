@@ -40,6 +40,11 @@ Software Engineering undergraduate working across full-stack, mobile, and AI-dri
 
 <br/>
 
+Featured Projects
+<table> <tr> <td width="50%"> <b>🎓 IARVS — Intelligent Academic Registration & Validation System</b><br/> Full-stack platform (Next.js 14, PostgreSQL, FastAPI) with a semantic search chatbot built on Sentence-BERT and a rule-based override decision-support engine. </td> <td width="50%"> <b>📋 Digital Logbook</b><br/> Mentorship & learning management system built with a 6-person team — invitation system with secure tokens, admin monitor, Kanban UI, and S3 integration. </td> </tr> <tr> <td width="50%"> <b>💼 Personal Portfolio</b><br/> Built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion — featuring a GitHub activity feed and a dependency-graph particle animation. </td> </table> <br/>
+Currently Learning
+<p align="left"> <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/System%20Design-8A2BE2?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Networking%20%26%20VLANs-8A2BE2?style=flat-square&logoColor=white" /> </p> <br/> <div align="center"> <img src="https://komarev.com/ghpvc/?username=ruchiralak&label=Profile%20views&color=1F6FEB&style=flat-square" alt="Profile views" /> </div> <br/> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" />
+
 ### Connect
 
 <p align="left">
