@@ -1,98 +1,117 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1F6FEB,100:0D1117&height=200&section=header&text=&fontColor=ffffff" />
-</div>
-
-```
-    ____  __  __________  __________  ___ 
-   / __ \/ / / / ____/ / / /  _/ __ \/   |
-  / /_/ / / / / /   / /_/ // // /_/ / /| |
- / _, _/ /_/ / /___/ __  // // _, _/ ___ |
-/_/ |_|\____/\____/_/ /_/___/_/ |_/_/  |_|
-
-  L A K S H A N   —   Software Engineer
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Ruchira%20Lakshan&fontSize=36&fontColor=ffffff&fontAlignY=55" />
 
 <br/>
 
-```yaml
-$ whoami
-> Software Engineering undergraduate, Colombo, Sri Lanka
-> BSE (Hons)  in progress
-
-$ status --current
-> [████████████████░░░░] leading Team Ignotum — building IARVS,
->   an intelligent academic registration & validation system
-
-$ history --last
-> shipped scheduling systems + REST APIs @ TRACE Expert City
-> built a mentorship LMS with a 6-person team, ground up
-
-$ learning --now
-> machine learning fundamentals · system design · networking
-
-$ philosophy
-> "Write once, run anywhere."
-```
-
-<br/>
-
-<div align="center">
-
-┌─────────────────────────────────────────────────────┐
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S T A C K&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│
-└─────────────────────────────────────────────────────┘
-
-</div>
-
-```
-client    ┃ JavaScript · TypeScript · React · Next.js · Tailwind
-server    ┃ Node.js · Python · FastAPI
-data      ┃ PostgreSQL · MongoDB  · Prisma · MySQL · Supabase · FireBase
-mobile    ┃ Flutter · Dart  · ReactNative
-tooling   ┃ Git · Figma · Docker
-```
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+<b>ROLE</b><br/>
+Software Engineer (UG)
+</td>
+<td width="25%" align="center">
+<b>LOCATION</b><br/>
+Colombo, Sri Lanka
+</td>
+<td width="25%" align="center">
+<b>STATUS</b><br/>
+🟢 Open to work
+</td>
+<td width="25%" align="center">
+<b>FOCUS</b><br/>
+Fullstack · Mobile
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-┌─────────────────────────────────────────────────────┐
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S E L E C T E D &nbsp;W O R K&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│
-└─────────────────────────────────────────────────────┘
+**📌 Now**
 
-</div>
+Leading Team Ignotum, building **IARVS** — an intelligent academic registration & validation system with a Sentence-BERT semantic search chatbot and a rule-based override decision engine.
 
-**⟶ IARVS**
-Full-stack academic registration platform.Agentic AI Powered chatbot , plus a rule-based override decision engine. Next.js · FastAPI · PostgreSQL.
+**Stack:** Next.js 14 · FastAPI · PostgreSQL
 
-**⟶ Digital Logbook**
-Mentorship & learning management system, built with a team of six. Secure invitations, admin monitoring, Kanban UI, S3 storage.
+</td>
+<td width="40%" valign="top">
 
-**⟶ Portfolio**
-A living site with a real-time GitHub feed and a dependency-graph particle animation modeling IARVS's own architecture.
+**📜 Before**
 
+Interned at TRACE Expert City — scheduling systems, admin dashboards, REST APIs.
+
+Built a mentorship LMS with a 6-person team.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
+### 🧰 Stack
 
-┌─────────────────────────────────────────────────────┐
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C O N N E C T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│
-└─────────────────────────────────────────────────────┘
+<table width="100%">
+<tr>
+<td align="center" width="20%">🌐<br/><b>Frontend</b><br/><sub>React · Next.js · Tailwind</sub></td>
+<td align="center" width="20%">⚙️<br/><b>Backend</b><br/><sub>Node.js · FastAPI</sub></td>
+<td align="center" width="20%">🗄️<br/><b>Data</b><br/><sub>PostgreSQL · MongoDB</sub></td>
+<td align="center" width="20%">📱<br/><b>Mobile</b><br/><sub>Flutter · Dart</sub></td>
+<td align="center" width="20%">🛠️<br/><b>Tooling</b><br/><sub>Git · Figma · Docker</sub></td>
+</tr>
+</table>
 
-</div>
+<br/>
 
-```
-$ connect --linkedin   https://linkedin.com/in/ruchira-lakshan
-$ connect --github     https://github.com/ruchiralak
-$ connect --email      ruchiralakshanm@gmail.com
-$ connect --portfolio  https://ruchiralak.github.io/portfolio
+### 🚀 Projects
 
-$ echo "thanks for stopping by — now go build something"
-```
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-<sub>⟶ open to opportunities in fullstack & mobile development</sub>
-</div>
+**IARVS**
+Academic registration platform with semantic search + intelligent override engine.
+<br/><sub>Next.js · FastAPI · PostgreSQL · Sentence-BERT</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=footer" />
+</td>
+<td width="50%" valign="top">
+
+**Digital Logbook**
+Mentorship & LMS platform — invitations, admin monitoring, Kanban, S3.
+<br/><sub>Team project · TRACE Expert City</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Portfolio**
+Personal site with a live GitHub feed and a dependency-graph particle animation.
+<br/><sub>Next.js 14 · TypeScript · Framer Motion</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**SahaYak**
+WhatsApp AI chatbot for grocery businesses — Singlish normalization, intent classification.
+<br/><sub>NLP · Conversational AI</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🔗 Connect
+
+<table width="100%">
+<tr>
+<td align="center" width="25%"><a href="https://www.linkedin.com/in/ruchira-lakshan/"><b>LinkedIn</b></a></td>
+<td align="center" width="25%"><a href="https://github.com/ruchiralak"><b>GitHub</b></a></td>
+<td align="center" width="25%"><a href="mailto:ruchiralakshanm@gmail.com"><b>Email</b></a></td>
+<td align="center" width="25%"><a href="https://ruchiralak.github.io/portfolio/"><b>Portfolio</b></a></td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:0D1117&height=60&section=footer" />
