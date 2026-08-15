@@ -46,11 +46,7 @@ I'm a Software Engineering undergraduate with a strong foundation in software de
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruchiralak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=00D9FF&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&cache_seconds=86400" alt="Ruchira's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=ruchiralak&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E&cache_seconds=86400" alt="Ruchira's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchiralak&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchiralak&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
